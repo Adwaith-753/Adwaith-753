@@ -4,9 +4,9 @@
 
 - 💼 Currently working at **Neolotex Business Solutions Pvt Ltd**
 
-- 💬 Ask me about **Android ,Mearn**
+- 🖥️  See my portfolio at **Android ,Mearn**
 
-- 📫 How to reach me **adwaithprakash03@gmail.com**
+- ✉️  You can contact me at **adwaithprakash03@gmail.com**
 
 - ⚡ Fun fact **i am funny**
 
