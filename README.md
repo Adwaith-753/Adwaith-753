@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💼 Currently working at **NeoLotex Business Solutions Private Limited**
+- 💼 Currently working at **Neolotex Business Solutions Pvt Ltd**
 
 - 💬 Ask me about **Android ,Mearn**
 
