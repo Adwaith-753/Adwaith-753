@@ -4,7 +4,7 @@
 
 - 💼 Currently working at **Neolotex Business Solutions Pvt Ltd**
 
-- 🖥️  See my portfolio at **<a href="https://adwaithprakash.netlify.app/">Adwaith Prakash</a>**
+- 🖥️  See my portfolio at **<a href="https://adwaithprakash.vercel.app/">Adwaith Prakash</a>**
 
 - ✉️  You can contact me at **adwaithprakash03@gmail.com**
 
